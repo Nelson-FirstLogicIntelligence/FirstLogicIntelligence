@@ -1,2 +1,3 @@
 # FirstLogicIntelligence
 Back-end logic configuration
+逻辑配置文件位置在route_config中
